@@ -1,0 +1,227 @@
+{
+  "project_info": {
+    "project_number": "106121594021",
+    "firebase_url": "https://my-first-project-96bcd-default-rtdb.firebaseio.com",
+    "project_id": "my-first-project-96bcd",
+    "storage_bucket": "my-first-project-96bcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106121594021:android:02980500332b1b1824794c",
+        "android_client_info": {
+          "package_name": "com.doctoreedapp6156"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106121594021-ai0j0juq4mfpkpkojo7a1ssqh7nd06bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7_v88esMIyks2cEm6a5kkfLsNJR-kqBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106121594021-ai0j0juq4mfpkpkojo7a1ssqh7nd06bn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "106121594021-7bavong4cl107o3mn7f5h7gvulgbcps0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doctorhunt"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106121594021:android:ab6528e05f0120a724794c",
+        "android_client_info": {
+          "package_name": "com.example.doctor_appointment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106121594021-ai0j0juq4mfpkpkojo7a1ssqh7nd06bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7_v88esMIyks2cEm6a5kkfLsNJR-kqBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106121594021-ai0j0juq4mfpkpkojo7a1ssqh7nd06bn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "106121594021-7bavong4cl107o3mn7f5h7gvulgbcps0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doctorhunt"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106121594021:android:cf3ca1021a04d3e524794c",
+        "android_client_info": {
+          "package_name": "com.example.doctorhunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106121594021-ai0j0juq4mfpkpkojo7a1ssqh7nd06bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7_v88esMIyks2cEm6a5kkfLsNJR-kqBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106121594021-ai0j0juq4mfpkpkojo7a1ssqh7nd06bn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "106121594021-7bavong4cl107o3mn7f5h7gvulgbcps0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doctorhunt"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106121594021:android:035bc8b0de73dc9d24794c",
+        "android_client_info": {
+          "package_name": "com.example.leso999"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106121594021-ai0j0juq4mfpkpkojo7a1ssqh7nd06bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7_v88esMIyks2cEm6a5kkfLsNJR-kqBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106121594021-ai0j0juq4mfpkpkojo7a1ssqh7nd06bn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "106121594021-7bavong4cl107o3mn7f5h7gvulgbcps0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doctorhunt"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106121594021:android:6d36e099f80dce1224794c",
+        "android_client_info": {
+          "package_name": "com.example.mydoctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106121594021-ai0j0juq4mfpkpkojo7a1ssqh7nd06bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7_v88esMIyks2cEm6a5kkfLsNJR-kqBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106121594021-ai0j0juq4mfpkpkojo7a1ssqh7nd06bn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "106121594021-7bavong4cl107o3mn7f5h7gvulgbcps0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doctorhunt"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106121594021:android:d1a1d72f77838f7124794c",
+        "android_client_info": {
+          "package_name": "com.example.oladoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106121594021-ai0j0juq4mfpkpkojo7a1ssqh7nd06bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7_v88esMIyks2cEm6a5kkfLsNJR-kqBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106121594021-ai0j0juq4mfpkpkojo7a1ssqh7nd06bn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "106121594021-7bavong4cl107o3mn7f5h7gvulgbcps0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doctorhunt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
